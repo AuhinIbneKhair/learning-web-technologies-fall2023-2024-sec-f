@@ -1,0 +1,34 @@
+<Employee>
+    <NAME> John Wick </NAME>
+    <ID> 1 </ID>
+    <ADDRESS>
+        <HOUSE> 38 </HOUSE>
+        <ROAD> 3 </ROAD>
+        <AREA> Banani, Dhaka </AREA>
+    </ADDRESS>
+    <DEPARTMENT> Sales </DEPARTMENT>
+    <SALARY> $20000 </SALARY>
+</Employee>
+<Employee>
+    <NAME> Mark Zukerberg </NAME>
+    <ID> 2 </ID>
+    <ADDRESS>
+        <FLAT> A/1 </FLAT>
+        <HOUSE> 20 </HOUSE>
+        <ROAD> 18 </ROAD>
+        <AREA> Mirpur, Dhaka </AREA>
+    </ADDRESS>
+    <DEPARTMENT> Accounts </DEPARTMENT>
+    <SALARY> $12000 </SALARY>
+</Employee>
+<Employee>
+    <NAME> Ala Voski </NAME>
+    <ID> 3 </ID>
+    <ADDRESS>
+        <HOUSE> 38 </HOUSE>
+        <ROAD> 3 </ROAD>
+        <AREA> Motijheel </AREA>
+    </ADDRESS>
+    <DEPARTMENT> Human Resource </DEPARTMENT>
+    <SALARY> $30000 </SALARY>
+</Employee>
